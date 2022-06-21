@@ -1,8 +1,8 @@
 # DaClipbd
 
-A clipboard history app for macos from (DeskAngel)[http://twitter.com/ideskangel].
+A clipboard history app for macos from [DeskAngel](http://twitter.com/ideskangel).
 
-Download: Go to (release)[https://github.com/deskangel/DaClipbd/releases/] to download.
+Download: Go to [release](https://github.com/deskangel/DaClipbd/releases/) to download.
 
 ## Usage
 ### Keybinding
