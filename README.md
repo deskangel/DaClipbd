@@ -4,6 +4,9 @@ A clipboard history app for macos from [DeskAngel](http://twitter.com/ideskangel
 
 Download: Go to [release](https://github.com/deskangel/DaClipbd/releases/) to download.
 
+## Screenshots
+![main-page](screenshots/main-page.png)
+
 ## Usage
 ### Keybinding
 Show/Hide window(default): CMD + SHIFT + V
